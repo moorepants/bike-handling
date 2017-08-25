@@ -14,5 +14,5 @@ dependencies:
   - pytables <3.0
   - pip:
     - BicycleParameters
-    - BicycleDataProcessor
+    - git+https://github.com/moorepants/BicycleDataProcessor.git@kresie-updates
     - yeadon  # this will not try to install mayavi but the conda-forge package will
