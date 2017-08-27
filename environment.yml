@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python =2.7.*
   - ipython
+  - notebook
   - libgfortran =1  # NOTE : May need to be removed for Windows.
   - numpy =1.8.*
   - scipy =0.13.*
