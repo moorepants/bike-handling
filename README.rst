@@ -62,7 +62,8 @@ repo) that points to all of the data locations. This is the one I use::
    pathToParameters = /home/moorepants/Data/bicycle-parameters
 
 Modify this to have the correct paths for your computer. You'll need to make
-sure to use paths like ``C:\`` on Windows.
+sure to use paths like ``C:\`` on Windows. Make a copy of this file and put it
+in the ``notebooks/`` directory also.
 
 Now you can load the database and add the new runs. Open IPython to do this::
 
