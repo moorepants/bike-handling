@@ -1,0 +1,123 @@
+measurementconversionfactor: .01  # units are in cm in this file
+
+# TODO : add a totalmass
+
+# Torso
+Ls1L: 14.5
+Ls2L: 28
+Ls3L: 44
+Ls4L: 57
+Ls5L: 65
+Ls6L: 17
+Ls7L: 22.5
+Ls8L: 33
+
+Ls0p: 98.5
+Ls1p: 86.5
+Ls2p: 89.5
+Ls3p: 98
+Ls5p: 39
+Ls6p: 47
+Ls7p: 60.5
+
+Ls0w: 34
+Ls1w: 31
+Ls2w: 28
+Ls3w: 31
+Ls4w: 45
+
+Ls4d: 14
+
+# Left arm
+La2L: 29
+La3L: 32
+La4L: 55
+La5L: 7
+La6L: 16.5
+La7L: 16
+
+La0p: 43
+La1p: 29.5
+La2p: 27
+La3p: 27.5
+La4p: 17
+La5p: 24
+La6p: 16.5
+La7p: 12.5
+
+La4w: 6.5
+La5w: 10
+La6w: 8
+La7w: 5
+
+# Right arm
+# NOTE : This is a copy of the left arm and are not actual measurements.
+Lb2L: 29
+Lb3L: 32
+Lb4L: 55
+Lb5L: 7
+Lb6L: 16.5
+Lb7L: 16
+
+Lb0p: 43
+Lb1p: 29.5
+Lb2p: 27
+Lb3p: 27.5
+Lb4p: 17
+Lb5p: 24
+Lb6p: 16.5
+Lb7p: 12.5
+
+Lb4w: 6.5
+Lb5w: 10
+Lb6w: 8
+Lb7w: 5
+
+# Left leg
+Lj1L: 12.5
+Lj3L: 40
+Lj4L: 55
+Lj5L: 85
+Lj6L: 6.5
+Lj8L: 15
+Lj9L: 20
+
+Lj1p: 63.5
+Lj2p: 53
+Lj3p: 38.5
+Lj4p: 39
+Lj5p: 27.5
+Lj6p: 63
+Lj7p: 25
+Lj8p: 24
+Lj9p: 21
+
+Lj8w: 10.5
+Lj9w: 9
+
+Lj6d: 5
+
+# Right leg
+# NOTE : This is a copy of the left leg and are not actual measurements.
+Lk1L: 12.5
+Lk3L: 40
+Lk4L: 55
+Lk5L: 85
+Lk6L: 6.5
+Lk8L: 15
+Lk9L: 20
+
+Lk1p: 63.5
+Lk2p: 53
+Lk3p: 38.5
+Lk4p: 39
+Lk5p: 27.5
+Lk6p: 63
+Lk7p: 25
+Lk8p: 24
+Lk9p: 21
+
+Lk8w: 10.5
+Lk9w: 9
+
+Lk6d: 5
