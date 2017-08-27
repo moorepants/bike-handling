@@ -43,6 +43,7 @@ BicycleDataProcessor software will need to be installed via pip because of new
 modifications.
 
 ::
+
    $ conda env create -f environment.yml
    $ source activate bikehandling  # on windows just "activate bikehandling"
    (bikehandling)$ pip install git+https://github.com/moorepants/BicycleDataProcessor.git@kresie-updates
